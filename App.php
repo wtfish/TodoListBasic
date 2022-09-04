@@ -8,3 +8,4 @@ require_once "View/ViewRemoveTodoList.php";
 require_once "View/ViewShowTodoList.php";
 echo strtoupper("++++ APPLIKASI TODOLIST ++++"). PHP_EOL;
 viewShowTodoList();
+echo 12;
